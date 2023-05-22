@@ -10,8 +10,9 @@
 }
 
 .btn{
-	  color: white;
+	color: white;
     background-color: rgb(238, 96, 120);
     border-radius: 5px;
-	  border-color: rgb(238, 96, 120);
+	padding:5px;
+	border-color: rgb(238, 96, 120);
 }
