@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+.sec1{
+		margin-top:15%;
+	   margin-left:38%;
+}
+.sect{
+	width:40%;
+	text-align:center;
+	 background-color: rgb(241, 235, 235); 
+}
+
+.btn{
+	  color: white;
+    background-color: rgb(238, 96, 120);
+    border-radius: 5px;
+	  border-color: rgb(238, 96, 120);
+}
